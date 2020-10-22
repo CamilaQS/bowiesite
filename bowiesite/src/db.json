@@ -1,0 +1,19 @@
+{
+    "albuns": [
+        {
+            "id": 0,
+            "title": "David Bowie",
+            "year": 1967,
+            "img": "https://upload.wikimedia.org/wikipedia/pt/c/cb/Bowie-davidbowie.jpg",
+            "tracks":14
+        },
+        {
+            "id": 1,
+            "title": "Space Oddity",
+            "year": 1969,
+            "img": "https://images-na.ssl-images-amazon.com/images/I/61RTFh76zzL._SY400_.jpg",
+            "tracks":10
+        }
+    ]
+
+}
